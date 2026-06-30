@@ -6,7 +6,7 @@ This script simulates the purging of highly deleterious recessive mutations
 during a severe population bottleneck, parameterized to reflect the demographic
 history of the Kākāpō (Strigops habroptilus).
 
-Author: Neo Ndlovu
+Author: Neo Ndlovu anf Megan Ebbeling
 Date: 2026
 """
 
